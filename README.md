@@ -11,6 +11,6 @@ This schematic is a project in which we control the switching of bulb/lamp using
 | U1                         	|     1    	| Arduino Uno R3            	|
 | BatReplace with 6V battery 	|     1    	| 6 v, 100 Ω Potato Battery 	|
 
-![Snapshot of Circuit](/Circuit.jpeg "Snapshot of TIP20 NPN Transistor as a Switch")
+![Snapshot of Circuit](/test.PNG "Snapshot of TIP20 NPN Transistor as a Switch")
 
 ## Visualize [here](https://www.tinkercad.com/things/9Nbv05ke91N).
